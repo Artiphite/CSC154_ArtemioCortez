@@ -1,3 +1,7 @@
 # CSC154_ArtemioCortez
 
-Welcome to  Branch!
+
+Hello Branch2!
+
+Welcome to Branch1!
+
